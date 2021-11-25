@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Variabili globali
-user=su.canali
-domain=cpra.local
+user=<UTENTE>
+domain=<DOMINIO>
 
 # Functions
 # Help
